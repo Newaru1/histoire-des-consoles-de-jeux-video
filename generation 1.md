@@ -17,7 +17,7 @@ Un total de vingt-huit jeux différents est commercialisé sur onze cartes de je
 
 ![Nintendo Color TV Game 6]({% link images/Nintendo_Color_TV_game_6_(Cut_out).jpg %}) 
 
-La Color TV-Game 6 est la première console de salon de Nintendo. Elle sort le 1er juin 1977 au prix de 9 800 ¥. (environ 31€ de nos jours). 360 000 exemplaires de la Color TV-Game 6 sont vendus.
+La **Color TV-Game 6** est la première console de salon de Nintendo. Elle sort le 1er juin 1977 au prix de 9 800 ¥. (environ 31€ de nos jours). 360 000 exemplaires de la Color TV-Game 6 sont vendus.
 
 Elle fonctionne à piles, et contient six versions d'un jeu proche de Pong, nommé Light Tennis. Les deux joueurs commandent à l'écran leur palette respective, avec deux molettes fragiles, fixées directement à la machine, ce qui est peu pratique pour jouer.
 
@@ -29,7 +29,7 @@ Ces consoles connaîtront un grand succès et inciteront Nintendo à poursuivre 
 
 ![Color TV Game 15]({% link images/Color_TV-Game_15_(Cut_out).jpg %})
 
-La Color TV-Game 15 est le second modèle Color TV-Game de Nintendo. Elle sort le 8 juin 1977 au prix de 18 000 ¥, environ 58€
+La **Color TV-Game 15** est le second modèle Color TV-Game de Nintendo. Elle sort le 8 juin 1977 au prix de 18 000 ¥, environ 58€.
 
 Elle fonctionne avec un adaptateur secteur, et contient quinze versions d'un jeu proche de Pong, nommé Light Tennis. Les deux joueurs commandent à l'écran leur palette respective, avec une molette fixée sur deux manettes câblées et débranchables.
 
