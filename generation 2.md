@@ -3,9 +3,9 @@ title: "Génération 2"
 order: 3
 in_menu: true
 ---
-## Deuxième génération de console (1976 - 1986)
+# Deuxième génération de console (1976 - 1986)
 
-# Atari 2600 (1977)
+## Atari 2600 (1977)
 
 ![Atari 2600]({% link images/Atari-2600-Wood-4Sw-Set.jpg %})
 
