@@ -3,7 +3,7 @@ title: "Génération 3"
 order: 4
 in_menu: true
 ---
-# Troisième génération de consoles (1983 - 1997)
+# Troisième génération de consoles (1983 - 1993)
 
 ## Sega SG-1000 (1983)
 
