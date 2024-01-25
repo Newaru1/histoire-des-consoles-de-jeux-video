@@ -3,9 +3,9 @@ title: "Génération 3"
 order: 4
 in_menu: true
 ---
-## Troisième génération de consoles (1983 - 1997)
+# Troisième génération de consoles (1983 - 1997)
 
-# Sega SG-1000 (1983)
+## Sega SG-1000 (1983)
 
 ![SG1000]({% link images/Sega_SG-1000_Bock.jpg %})
 
@@ -15,7 +15,7 @@ Malgré des débuts prometteurs, la SG-1000 connaît une performance commerciale
 
 La ludothèque de la SG-1000 comprend 68 jeux sur cartouche standard et 29 jeux sur Sega Card, une partie d'entre eux étant conçus un à deux ans après l'abandon du système par Sega.
 
-# Nintendo Famicom (1983)
+## Nintendo Famicom (1983)
 
 ![famicom]({% link images/Nintendo-Famicom-Console-Set-FL.png %})
 
@@ -37,7 +37,7 @@ Le jeu le plus vendu du périphérique est Super Mario Bros. 2, connu hors Japon
 
 Le Famicom Disk System a bénéficié de la sortie d'environ 230 jeux au Japon.
 
-# Nintendo Entertainment System (1985)
+## Nintendo Entertainment System (1985)
 
 ![nes]({% link images/NES-Console-Set.png %})
 
