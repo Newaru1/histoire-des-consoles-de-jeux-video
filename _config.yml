@@ -4,3 +4,4 @@ collections:
 plugins:
   - jekyll-feed
 theme: mimoza
+baseurl: /histoire-des-consoles-de-jeux-video
