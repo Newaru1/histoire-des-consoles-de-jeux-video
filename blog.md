@@ -1,15 +1,11 @@
 ---
 layout: default
-title: Articles
+title: Histoire
 permalink: /articles/
 ---
 <h1>
-  Articles
+  Histoire des consoles
 </h1>
-<aside>
-  S'abonner via le <a href="{{ '/feed.xml' | relative_url }}">flux RSS</a>
-  (<a href="https://flus.fr/carnet/a-quoi-servent-les-flux.html">c'est quoi ?</a>)
-</aside>
 
 {% for post in site.posts %}
 <article class="blog-item">
