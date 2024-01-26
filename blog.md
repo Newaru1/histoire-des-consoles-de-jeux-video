@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Histoire
+title: Histoire des consoles
 permalink: /articles/
 ---
 <h1>
