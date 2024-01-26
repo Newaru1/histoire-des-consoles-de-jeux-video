@@ -1,3 +1,43 @@
 :root {
     --couleur-primaire : #001f3f;
 }
+
+.day {
+  background: #00cc00;
+  color: black;
+}
+.night {
+  background: #001f3f;
+  color: white;
+}
+
+@media (prefers-color-scheme: dark) {
+  .day.dark-scheme {
+    background: #333;
+    color: white;
+  }
+  .night.dark-scheme {
+    background: #001f3f;
+    color: #ddd;
+  }
+}
+
+@media (prefers-color-scheme: light) {
+  .day.light-scheme {
+    background: #00cc00;
+    color: #555;
+  }
+  .night.light-scheme {
+    background: #001f3f;
+    color: black;
+  }
+}
+
+.day,
+.night {
+  display: inline-block;
+  padding: 1em;
+  width: 7em;
+  height: 2em;
+  vertical-align: middle;
+}
