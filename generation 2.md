@@ -18,7 +18,7 @@ Avec entre 25 et 40 millions d’unités vendues, l’Atari 2600 est la console 
 
 La ludothèque de la console comprend environ 900 titres dont des hits originaux (Adventure, Kaboom!, Pitfall!, Yars’ Revenge, des conversions de jeux d’arcade célèbres (Asteroids, Missile Command, Pac-Man, Space Invaders) et les premiers jeux sous licence (E.T. the Extra-Terrestrial, Raiders of the Lost Ark, etc.)
 
-## Microvision (1979
+## Microvision (1979)
 
 ![Microvision]({% link images/Milton-Bradley-Microvision-Handheld-FL.jpg %})
 
