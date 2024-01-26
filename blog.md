@@ -7,6 +7,7 @@ permalink: /articles/
   Histoire des consoles
 </h1>
 
+{% assign sorted_posts = site.posts | sort: 'date' | reverse %}
 {% for post in site.posts %}
 <article class="blog-item">
   <h2>
