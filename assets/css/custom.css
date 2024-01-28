@@ -1,8 +1,13 @@
 :root {
     --couleur-primaire : #001f3f;
-background-image: url('logo.jpg');
+
+ background-image: url('logo.jpg');
     background-position: top left;
     background-repeat: no-repeat;
+
+nav ul {
+    float: left;
+}
 
 }
 
