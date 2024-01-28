@@ -14,8 +14,11 @@ background: rgb(128,0,128);
  background-image: url('logo.jpg');
     background-position: top left;
     background-repeat: no-repeat;
-}
 
 nav ul {
     float: left;
 }
+
+}
+
+
