@@ -7,7 +7,7 @@ in_menu: true
 
 **Bienvenue sur mon site !**
 
-![Video](link julien.mp4)
+[![julien](http://img.youtube.com/vi/KBMikZqhB1E/0.jpg)](https://www.youtube.com/watch?v=KBMikZqhB1E "salut c'est julien !")
 
 Ici, vous trouverez des informations sur l'histoire des consoles de jeux vidéo, des plus connues, au plus obscures, depuis les années 1970 à nos jours par génération de consoles.
 
