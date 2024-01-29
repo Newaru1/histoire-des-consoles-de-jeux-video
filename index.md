@@ -11,4 +11,4 @@ Ici, vous trouverez des informations sur l'histoire des consoles de jeux vidéo,
 
 Je vous souhaite une bonne visite ! 
 
-![Video](julien.mp4) 
+![Video](images/julien.mp4) 
