@@ -63,7 +63,7 @@ background: rgb(128,0,128);
   rgba(192,192,192,1) 0%, rgba(75,163,255,1) 
   100%);
 
-background:#FABC20;
+ background:#001f3f;
   font-family: 'Open Sans', sans-serif;
   -webkit-font-smoothing: antialiased;
   color:#393D3D;
@@ -102,5 +102,4 @@ background:#FABC20;
 
 #svg-para{
   left:50%;
-
 }
