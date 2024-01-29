@@ -7,7 +7,7 @@ in_menu: true
 
 **Bienvenue sur mon site !**
 
-![Video]({% link https://github.com/Newaru1/histoire-des-consoles-de-jeux-video/julien.mp4 %})
+![Video](https://github.com/Newaru1/histoire-des-consoles-de-jeux-video/julien.mp4)
 
 Ici, vous trouverez des informations sur l'histoire des consoles de jeux vidéo, des plus connues, au plus obscures, depuis les années 1970 à nos jours par génération de consoles.
 
