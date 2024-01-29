@@ -50,6 +50,10 @@
     to {transform: rotate(360deg);}
 }
 
+h1 {
+color: white;
+}
+
 body {
 
 font: 1.2em "Fira Sans", sans-serif;
