@@ -5,9 +5,6 @@
     background-position: top left;
     background-repeat: no-repeat;
 
-    @font-face {
-    font-family: 'Common Pixel';
-    src: url('https://github.com/Newaru1/histoire-des-consoles-de-jeux-video/assets/Commom Pixel.TTF') format('TTF'),
 }
 
 h1 {
